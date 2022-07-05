@@ -12,4 +12,4 @@
 - ⚙️ I use daily: `.js`, `.html`, `.css`
 - 💡 NoSurf advocate
 - 🌱 Learning about non-addictive information systems
-- 📧 Reach me: (mailto:lsdorosario@gmail.com)
+- 📧 Reach me: lsdorosario@gmail.com
